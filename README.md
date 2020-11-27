@@ -5,7 +5,7 @@ A ideia desse projeto é:<br />
 Esse é um projeto em React desenvolvido para uma avaliação do 2º Semestre na Faculdade UniAmérica<br />
 <br />
 <h2>Objetivos</h2>
-Nosso objetivo era desenvolver um conjunto de 4 páginas navegáveis usando o react-router-doom onde a Landing Page tem uma imagem de fundo com no mínimo 500px de altura e com o desenvolvimento de 2 elementos básicos, sendo eles o Header e o Rodaé da página<br />
+Nosso objetivo era desenvolver um conjunto de 4 páginas navegáveis usando o react-router-doom onde a Landing Page tem uma imagem de fundo com no mínimo 500px de altura e com o desenvolvimento de 2 elementos básicos, sendo eles o Header e o Rodapé da página<br />
 Esse é um projeto desenvolvido para avaliação da faculdade, ainda pode ser que seja trabalhado futuramente ou usado como template para alguns outros testes.<br />
 <br />
 <h2>Iniciando</h2>
